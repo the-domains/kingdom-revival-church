@@ -1,0 +1,29 @@
+name: Kingdom Revival Church
+favicon: null
+layout_spectrum: 0.5757210308220237
+typography_spectrum: 0.3239074375014752
+title: Kingdom Revival Church
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.045016705757007
+  lightness: 0.681218440644443
+  saturation: 0.28960727574303746
+  rhythmicContrast: 0.613343300530687
+purpose: []
